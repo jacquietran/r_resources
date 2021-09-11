@@ -9,3 +9,4 @@ A collection of resources for learning R. This is not meant to be exhaustive but
 - DataQuest introductory R course: https://www.dataquest.io/course/introduction-to-data-analysis-in-r/
 - [Big Book of R](https://www.bigbookofr.com/)
 - R-Ladies Sydney course, [RYouWithMe?](https://rladiessydney.org/courses/ryouwithme/)
+- [swirl](https://swirlstats.com/)
