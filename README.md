@@ -10,3 +10,4 @@ A collection of resources for learning R. This is not meant to be exhaustive but
 - [Big Book of R](https://www.bigbookofr.com/)
 - R-Ladies Sydney course, [RYouWithMe?](https://rladiessydney.org/courses/ryouwithme/)
 - [swirl](https://swirlstats.com/)
+- [R for the Rest of Us](https://rfortherestofus.com/)
